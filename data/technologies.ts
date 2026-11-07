@@ -1,0 +1,15 @@
+export const technologies: string[] = [
+  "JavaScript",
+  "TypeScript",
+  "Node.js",
+  "React",
+  "Next.js",
+  "Flutter",
+  "PostgreSQL",
+  "Supabase",
+  "Docker",
+  "Kubernetes",
+  "Git",
+  "Jenkins",
+  "AI development tools",
+];
